@@ -1,0 +1,12 @@
+.header {
+    color: #FFEBCD;
+    background-color: #92939a;
+    width: 100%;
+    text-align: center;
+    padding-top:32px;
+    padding-bottom:32px;
+    border-bottom: 10px solid #0645AD;
+    margin-bottom: 5px;
+    font-family:Georgia, serif;
+    font-weight: bolder;
+}
