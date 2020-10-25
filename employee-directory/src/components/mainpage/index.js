@@ -1,10 +1,10 @@
 import React from "react";
-import DataArea from "../DataArea/index";
+import DataArea from "../dataspace/index";
 
 
 function Main (){
     return(
-        <DataArea />
+        <dataspace />
     );
 };
 
