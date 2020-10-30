@@ -1,5 +1,5 @@
 import React from "react";
-import DataArea from "../dataspace/index";
+import dataspace from "../dataspace/index";
 
 
 function Main (){
