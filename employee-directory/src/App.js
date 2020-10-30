@@ -1,16 +1,16 @@
 import React from 'react';
-import mainpage from ".components/mainpage/index";
-import header from "./components/header/index";
-import wrapper from "./components/wrapper/index";
+import Mainpage from "./components/mainpage/index";
+import Header from "./components/header/index";
+import Wrapper from "./components/Wrapper/index";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <wrapper>
-        <header />
-        <mainpage />
-      </wrapper>
+      <Wrapper>
+        <Header />
+        <Mainpage />
+      </Wrapper>
     </div>
   );
 }

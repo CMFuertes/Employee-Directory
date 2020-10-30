@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import DataHook from "../../utils/DataContext"
+import DataHook from "../../utils/dataContext"
 
 const TableBody = () => {
     const context = useContext(DataHook);

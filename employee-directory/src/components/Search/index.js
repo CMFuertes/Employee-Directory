@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
-import DataContext from "../../utils/DataContext";
+import dataContext from "../../utils/dataContext";
 
 const Search = () => {
-    const context = useContext(DataContext);
+    const context = useContext(dataContext);
 return (
     <div className="searchbox">
       <div className="input-group">

@@ -1,10 +1,10 @@
 import React from "react";
-import dataspace from "../dataspace/index";
+import Dataspace from "../dataspace/index";
 
 
 function Main (){
     return(
-        <dataspace />
+        <Dataspace />
     );
 };
 
