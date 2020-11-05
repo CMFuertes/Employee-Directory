@@ -1,6 +1,6 @@
 # Employee-Directory ![NPM](https://img.shields.io/npm/l/sta)
 
-![Screenshot]()
+![Screenshot](https://github.com/CMFuertes/employee-directory/blob/main/public/Employee%20Screenshot.png?raw=true)
 
 ## Table Of Contents 
 
